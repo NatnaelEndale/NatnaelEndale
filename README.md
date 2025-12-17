@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me:
 - 📧 Email: *[natnaelendale22@gmail.com]*
-- 🌍 LinkedIn: *[](https://www.linkedin.com/in/natnael-endale-4558b5388?)]*
+- 🌍 LinkedIn: *[(https://www.linkedin.com/in/natnael-endale-4558b5388?)]*
 - 💡 Portfolio (coming soon)
 
 ---
