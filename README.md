@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Natty!
 
-🚀 I'm an aspiring Software Engineer passionate about **AI, Robotics, and Embedded Systems**.  
-💻 Currently learning **Python**, **C++**, and exploring **Web Development**.  
+🚀 I'm an aspiring Software Engineer passionate about **Cybersecurity, AI, Robotics, and Embedded Systems**.  
+💻 Currently learning **Python**, **C++**, and exploring **Cybersecurity**.  
 ### 🧠 What I’m currently working on:
 - Improving my data structures & algorithms 
-- Learning about IoT and machine learning
+- Learning about Cybersecurity and machine learning
 
 ### 🧰 Tech Stack:
 - Programming: Python | C++ | JavaScript
-- Web: HTML | CSS | React (learning)
-- Tools: Git | GitHub | VS Code 
+- Cybersecurity: Linux | Neteworking | HTB
+- Tools: Git | GitHub | Linux
 
 ### 📫 How to reach me:
 - 📧 Email: *[natnaelendale22@gmail.com]*
