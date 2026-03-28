@@ -1,25 +1,37 @@
 # 👋 Hi there, I'm Natty!
 
-🚀 I'm an aspiring Software Engineer passionate about **Cybersecurity, AI, Robotics, and Embedded Systems**.  
-💻 Currently learning **Python**, **C++**, and exploring **Cybersecurity**.  
-### 🧠 What I’m currently working on:
-- Improving my data structures & algorithms 
-- Learning about Cybersecurity and machine learning
+🚀 Aspiring Software Engineer with a strong passion for Cybersecurity, AI, Robotics, and Embedded Systems.
+💻 Currently expanding my knowledge in Python, C++, and exploring advanced topics in Cybersecurity.
 
-### 🧰 Tech Stack:
-- Programming: Python | C++ | JavaScript
-- Cybersecurity: Linux | Neteworking | HTB
-- Tools: Git | GitHub | Linux
+## 🧠 What I’m Currently Working On
+Strengthening Data Structures & Algorithms skills through consistent problem-solving
+Exploring Cybersecurity practices, tools, and ethical hacking
+Learning Machine Learning and its applications in AI and robotics
 
-### 📫 How to reach me:
-- 📧 Email: *[natnaelendale22@gmail.com]*
-- 🌍 LinkedIn: *[(https://www.linkedin.com/in/natnael-endale-4558b5388?)]*
-- 💡 Portfolio (coming soon)
+## 🧰 Tech Stack
 
----
+Programming Languages: Python | C++ | JavaScript
+Cybersecurity & Networking: Linux | Networking Fundamentals | HTB Labs
+Tools & Platforms: Git | GitHub | VS Code | Linux Terminal
 
-⭐️ *“Keep learning, keep building!”*
+## 📂 Projects & Practice
 
+Log Analyzer & Detection Pipeline: Built a Python project for analyzing logs and generating NDJSON reports
+AI & Robotics Experiments: Hands-on practice with embedded systems, computer vision, and AI models 
+LeetCode DSA Mastery: Regular practice on algorithmic challenges to strengthen problem-solving skills
+
+(Portfolio coming soon with detailed project walkthroughs)
+
+## 🎯 Goals
+Achieve professional proficiency in Cybersecurity & Ethical Hacking
+Build full-stack projects integrating AI, Robotics, and Embedded Systems
+Contribute to open-source projects and grow as a community-driven developer
+
+## 📫 How to Reach Me
+
+📧 Email: natnaelendale22@gmail.com
+🌍 LinkedIn: Natnael Endale
+💡 Portfolio: (Coming Soon)
 
 <!--
 **NatnaelEndale/NatnaelEndale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
